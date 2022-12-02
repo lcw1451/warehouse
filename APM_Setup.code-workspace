@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"path": "../../../../APM_Setup"
+		},
+		{
+			"path": "D:/대학/3학년/3학년 2학기/1.데이터베이스응용/프로젝트"
+		},
+		{
+			"path": "D:/대학/데이터구조"
+		},
+		{
+			"path": "D:/대학/3학년/3학년 2학기/4.임베디드시스템설계"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "프로젝트"
+	}
+}
