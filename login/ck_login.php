@@ -1,6 +1,6 @@
 <?php
 
-//2
+//3
 function login($ID, $PW){
     global $con;
     global $table;
