@@ -5,7 +5,6 @@
 		exit;
 	}
 ?>
-//나 새롭게 등장!
 <!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
 <html>
 
