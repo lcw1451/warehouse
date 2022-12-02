@@ -1,0 +1,35 @@
+body{
+  width: 100vw;
+  height: 100vh;
+  margin: 0;
+  display: grid;
+  grid-template-columns: 1fr 6fr;
+  grid-template-rows: 44px auto 50px;
+  grid-template-areas: 
+  'header header'
+  'nav main'
+  'footer footer';
+}
+
+header{
+  grid-area: header;
+  background-color: #333;
+  color: aliceblue;
+}
+
+nav{
+  grid-area: nav;
+  background-color: #fff;
+  margin: 0;
+  border-left: soild 1px black;
+}
+
+main{
+  grid-area: main;
+  background: #fff;
+}
+
+footer{
+  grid-area: footer;
+  background-color: gray;
+}
